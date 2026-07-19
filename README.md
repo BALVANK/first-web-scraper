@@ -12,7 +12,7 @@ After installing the repository, the Sphinx documentation can be edited in the
 First install the requirements.
 
 ```bash
-pipenv install
+uv sync --all-groups
 ```
 
 Fire up the test server, which will automatically update to show changes made
