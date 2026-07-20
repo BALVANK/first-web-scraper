@@ -49,12 +49,12 @@ capable of editing documents containing Python code, HTML markup and
 other languages without dressing them up by adding anything extra. Such
 programs are easy to find and some of the best ones are free.
 
-If you don't have one already, try installing Microsoft's [Visual Code Studio](https://code.visualstudio.com/), a popular, free option.
+If you don't have one already, try installing Microsoft's [Visual Studio Code](https://code.visualstudio.com/), a popular, free option.
 
 ### Python
 
 If you are using Mac OS or a common flavor of Linux, Python is probably
-already installed. Tou can test to see what version, if any, is there
+already installed. You can test to see what version, if any, is there
 waiting for you by typing the following into your terminal.
 
 ```bash

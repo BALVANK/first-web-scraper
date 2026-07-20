@@ -12,7 +12,7 @@ this:
 In this lesson we'll use it to give the computer direct commands to manage files, navigate through directories and execute Python scripts. If that sounds scary, don't worry, it'll only require only a few basic commands we'll cover now.
 
 Open the command-line program for your operating system and let's get started.
-If you need help finding it refer to the prequisite instructions for the {ref}`command-line-prereq`.
+If you need help finding it refer to the prerequisite instructions for the {ref}`command-line-prereq`.
 
 ### Print the current directory
 

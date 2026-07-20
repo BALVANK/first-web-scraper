@@ -411,7 +411,7 @@ def get_half(num):
     return num / 2
 ```
 
-After you finish declaring arguments, you'll see something familiar --the colon. Just like the `if` statements and `for` loops, the next line must be indented four spaces because any code within the function is nested one level deeper than the base level of the program.
+After you finish declaring arguments, you'll see something familiar -- the colon. Just like the `if` statements and `for` loops, the next line must be indented four spaces because any code within the function is nested one level deeper than the base level of the program.
 
 Most functions return some kind of output. Arguments go in, some processing happens, and something comes out. That's what the `return` statement is for.
 

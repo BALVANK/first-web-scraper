@@ -12,7 +12,7 @@ The scraper will use Python's [BeautifulSoup](http://www.crummy.com/software/Bea
 
 We'll also use the [Requests library](http://docs.python-requests.org/en/latest/) to open the URL, download the HTML and pass it to BeautifulSoup.
 
-Since they are not included in Python's standard library, we'll first need to install them using `pip`, a command-line tool that can grab open-source libraries off the web. If you don't have it installed, you'll need to follow the prequisite instructions for {ref}`command-line-pip`.
+Since they are not included in Python's standard library, we'll first need to install them using `pip`, a command-line tool that can grab open-source libraries off the web. If you don't have it installed, you'll need to follow the prerequisite instructions for {ref}`command-line-pip`.
 
 In OSX or Linux try this:
 
