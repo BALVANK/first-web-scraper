@@ -18,9 +18,7 @@ html_sidebars = {
     ]
 }
 html_theme_options = {
-    "canonical_url": f"https://palewi.re/docs/first-web-scraper/",
-}
-html_theme_options = {
+    "canonical_url": "https://palewi.re/docs/first-web-scraper/",
     "nosidebar": True,
 }
 
